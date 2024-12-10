@@ -1,4 +1,6 @@
 {
+  "favorites": [],
+
   "properties": [
     {
       "id": "01L12",
@@ -728,6 +730,21 @@
       "housing_name": "2 people",
       "product_galery_1_grand": "https://s3-eu-west-3.amazonaws.com/channable-pvcp-images/pvcp_images/media_PV_SUMMER_2024_AVL_800x600_AAA_89340_43.jpg",
       "link": "https://www.pierreetvacances.com/gb-en/fp_AVL_self-catering-avoriaz-falaise?utm_campaign=PVUK_AON_PROSPECTION_TGT_Contextuel_AON_Native_Adup_1x1&utm_content=Display_Native-Adup_AVLSUMMER&utm_source=ADUP&utm_medium=CPM&utm_term=omm"
+    },
+    {
+      "id": "1",
+      "city_name": "test",
+      "description": "",
+      "catch_line": "",
+      "services": ["test"],
+      "price": "test",
+      "country": "",
+      "title": "test",
+      "activities": [],
+      "arrivaldate": "",
+      "department": "test",
+      "housing_name": "",
+      "product_galery_1_grand": "https://images2.bovpg.net/fw2x/media/1/7/7/7/7/777789.jpg"
     }
   ]
 }
