@@ -1,6 +1,51 @@
 {
-  "favorites": [],
-
+  "favorites": [
+    {
+      "id": "07L14",
+      "city_name": "Trouville-sur-Mer",
+      "description": "The prime location on the hills above Trouville. Practical studios with fully-equipped kitchen. The beach is 800 m away and can be accessed using a private path.",
+      "catch_line": "An exceptional view of the Côte Fleurie",
+      "services": [
+        "Towels",
+        "Meals delivered to your residence",
+        "Breakfast delivery service",
+        "Preferred location",
+        "Late check-out",
+        "Housekeeping at the end of your stay (excludes kitchenette)",
+        "Wi-Fi available in accommodation",
+        "Baby kit",
+        "Bed linen",
+        "Beds made upon arrival",
+        "Pets allowed",
+        "Complimentary hire equipment",
+        "Early check-in",
+        "Welcome cleaning kit",
+        "Pay car park",
+        "Bread and pastries delivery"
+      ],
+      "price": "108.00 EUR",
+      "country": "France",
+      "title": "Les Tamaris",
+      "activities": [
+        "Sailing",
+        "Play area",
+        "Pool table",
+        "Wellness centre",
+        "Paintball",
+        "Pétanque",
+        "Scuba diving",
+        "Tennis",
+        "Casino",
+        "Horse riding",
+        "Table tennis"
+      ],
+      "arrivaldate": "09/12/2025",
+      "department": "Calvados",
+      "housing_name": "4 people",
+      "product_galery_1_grand": "https://s3-eu-west-3.amazonaws.com/channable-pvcp-images/pvcp_images/media_PV_SUMMER_2024_07L_800x600_AAA_143223_43.jpg",
+      "link": "https://www.pierreetvacances.com/gb-en/fp_07L_self-catering-trouville-tamaris?utm_campaign=PVUK_AON_PROSPECTION_TGT_Contextuel_AON_Native_Adup_1x1&utm_content=Display_Native-Adup_07LSUMMER&utm_source=ADUP&utm_medium=CPM&utm_term=omm"
+    }
+  ],
   "properties": [
     {
       "id": "01L12",
@@ -73,7 +118,11 @@
       "price": "103.00 EUR",
       "country": "France",
       "title": "Promenade des Bains",
-      "activities": ["Sailing", "Casino", "Horse riding"],
+      "activities": [
+        "Sailing",
+        "Casino",
+        "Horse riding"
+      ],
       "arrivaldate": "18/11/2025",
       "department": "Var",
       "housing_name": "4 people",
@@ -150,7 +199,10 @@
       "price": "105.00 EUR",
       "country": "France",
       "title": "La Baie des Sables",
-      "activities": ["Table football", "Sailing"],
+      "activities": [
+        "Table football",
+        "Sailing"
+      ],
       "arrivaldate": "02/12/2025",
       "department": "Vendée",
       "housing_name": "4 people",
@@ -736,7 +788,9 @@
       "city_name": "test",
       "description": "",
       "catch_line": "",
-      "services": ["test"],
+      "services": [
+        "test"
+      ],
       "price": "test",
       "country": "",
       "title": "test",
@@ -745,6 +799,26 @@
       "department": "test",
       "housing_name": "",
       "product_galery_1_grand": "https://images2.bovpg.net/fw2x/media/1/7/7/7/7/777789.jpg"
+    },
+    {
+      "id": "0ae5"
+    },
+    {
+      "id": "07654",
+      "title": "aaa",
+      "city_name": "aaa",
+      "department": "aaa",
+      "price": "230",
+      "country": "France",
+      "description": "",
+      "product_galery_1_grand": "https://miro.medium.com/v2/resize:fit:633/1*SLwl_DPs2kFvV_VvMtODUQ.jpeg",
+      "catch_line": "",
+      "services": [
+        "aaa"
+      ],
+      "activities": [],
+      "arrivaldate": "",
+      "housing_name": ""
     }
   ]
 }
