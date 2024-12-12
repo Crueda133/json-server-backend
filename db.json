@@ -1,6 +1,16 @@
 {
   "favorites": [],
-  "bookings": [],
+  "bookings": [
+    {
+      "id": "06L14E",
+      "title": "Promenade des Bains",
+      "price": "103.00 EUR",
+      "city_name": "Saint Raphael",
+      "country": "France",
+      "description": "Saint-Raphaël, a former fishing village in a protected environment. In a quiet area, near to the town centre and just a short distance from a sandy beach. The \"Sea & City\" residence is equipped with air-conditioned apartments.",
+      "image": "https://s3-eu-west-3.amazonaws.com/channable-pvcp-images/pvcp_images/media_PV_SUMMER_2024_06L_800x600_AAA_76925_43.jpg"
+    }
+  ],
   "properties": [
     {
       "id": "01L12",
