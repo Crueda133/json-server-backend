@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "favorites": [
     {
       "id": "01L12",
@@ -43,6 +44,48 @@
       "housing_name": "2 people",
       "product_galery_1_grand": "https://s3-eu-west-3.amazonaws.com/channable-pvcp-images/pvcp_images/media_PV_SUMMER_2024_01L_800x600_AAA_135257_43.jpg",
       "link": "https://www.pierreetvacances.com/gb-en/fp_01L_self-catering-menton-citronniers?utm_campaign=PVUK_AON_PROSPECTION_TGT_Contextuel_AON_Native_Adup_1x1&utm_content=Display_Native-Adup_01LSUMMER&utm_source=ADUP&utm_medium=CPM&utm_term=omm"
+=======
+  "favorites": [],
+  "accounts": [
+    {
+      "id": "eb7a",
+      "firstName": "Oscar Erian",
+      "lastName": "Gonzalez",
+      "birthDate": "2024-12-13",
+      "nationality": "Mexican",
+      "address": "Cap. Alonso de Leon",
+      "country": "Mexico",
+      "phone": "8119837301"
+    }
+  ],
+  "bookings": [
+    {
+      "id": "08L14",
+      "title": "La Baie des Sables",
+      "price": "105.00 EUR",
+      "city_name": "Les Sables d'Olonne",
+      "country": "France",
+      "description": "A dynamic resort on the Côte de Lumière, which is famous for its micro-climate. A region focused on the Atlantic and its water sports. The \"Sea and City\" residence is close to the port and 100 m from the main beach.",
+      "image": "https://s3-eu-west-3.amazonaws.com/channable-pvcp-images/pvcp_images/media_PV_SUMMER_2024_08L_800x600_AAA_140966_43.jpg"
+    },
+    {
+      "id": "16L14",
+      "title": "La Rivière",
+      "price": "202.00 EUR",
+      "city_name": "Chamonix-Mont-Blanc",
+      "country": "France",
+      "description": "Discover Chamonix and its rich and colourful history, its unique cultural and architectural heritage and blend of tradition and modernity. An ideally located residence in the town centre just a 10-minute walk from the train station. A wide range of activities and events on offer in the surrounding area.",
+      "image": "https://s3-eu-west-3.amazonaws.com/channable-pvcp-images/pvcp_images/media_PV_SUMMER_2024_16L_800x600_AAA_126178_43.jpg"
+    },
+    {
+      "id": "20L12",
+      "title": "La Rostagne",
+      "price": "101.00 EUR",
+      "city_name": "Juan-les-Pins",
+      "country": "France",
+      "description": "An ideal location, 800 m from the beach and the city centre, not far from shops and entertainment. Comfortable accommodation with air conditioning. Small outdoor swimming pool, open from June to September.",
+      "image": "https://s3-eu-west-3.amazonaws.com/channable-pvcp-images/pvcp_images/media_PV_SUMMER_2024_20L_800x600_AAA_143507_43.jpg"
+>>>>>>> 732ca3a (ok)
     }
   ],
   "properties": [
@@ -116,8 +159,12 @@
       ],
       "price": "103.00 EUR",
       "country": "France",
-      "title": "Promenade des Bains",
-      "activities": ["Sailing", "Casino", "Horse riding"],
+      "title": "Promenade des Bainsss",
+      "activities": [
+        "Sailing",
+        "Casino",
+        "Horse riding"
+      ],
       "arrivaldate": "18/11/2025",
       "department": "Var",
       "housing_name": "4 people",
@@ -194,7 +241,10 @@
       "price": "105.00 EUR",
       "country": "France",
       "title": "La Baie des Sables",
-      "activities": ["Table football", "Sailing"],
+      "activities": [
+        "Table football",
+        "Sailing"
+      ],
       "arrivaldate": "02/12/2025",
       "department": "Vendée",
       "housing_name": "4 people",
