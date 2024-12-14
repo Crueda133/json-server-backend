@@ -1,50 +1,4 @@
 {
-<<<<<<< HEAD
-  "favorites": [
-    {
-      "id": "01L12",
-      "city_name": "Menton",
-      "description": "A Provençal residence in the heart of Menton. Proximity to the historic town, the old port and the beach. The comfort of our air-conditioned studios.",
-      "catch_line": "Just a stone's throw from the beach and historic centre",
-      "services": [
-        "Towels",
-        "Air conditioning",
-        "Preferred location",
-        "Pay car park",
-        "Mini-market",
-        "Wi-Fi available in accommodation",
-        "Luggage store",
-        "Baby kit",
-        "Welcome cleaning kit",
-        "Late check-out",
-        "Beds made upon arrival",
-        "Breakfast delivery service",
-        "Housekeeping on departure",
-        "Pets allowed",
-        "Various shops",
-        "Early check-in",
-        "Launderette",
-        "Bed linen",
-        "Meals delivered to your residence",
-        "Complimentary hire equipment"
-      ],
-      "price": "105.00 EUR",
-      "country": "France",
-      "title": "Les Citronniers",
-      "activities": [
-        "Scuba diving",
-        "Sailing",
-        "Casino",
-        "Wellness centre",
-        "Local discoveries",
-        "Mini golf"
-      ],
-      "arrivaldate": "18/11/2025",
-      "department": "Alpes-Maritimes",
-      "housing_name": "2 people",
-      "product_galery_1_grand": "https://s3-eu-west-3.amazonaws.com/channable-pvcp-images/pvcp_images/media_PV_SUMMER_2024_01L_800x600_AAA_135257_43.jpg",
-      "link": "https://www.pierreetvacances.com/gb-en/fp_01L_self-catering-menton-citronniers?utm_campaign=PVUK_AON_PROSPECTION_TGT_Contextuel_AON_Native_Adup_1x1&utm_content=Display_Native-Adup_01LSUMMER&utm_source=ADUP&utm_medium=CPM&utm_term=omm"
-=======
   "favorites": [],
   "accounts": [
     {
@@ -85,7 +39,6 @@
       "country": "France",
       "description": "An ideal location, 800 m from the beach and the city centre, not far from shops and entertainment. Comfortable accommodation with air conditioning. Small outdoor swimming pool, open from June to September.",
       "image": "https://s3-eu-west-3.amazonaws.com/channable-pvcp-images/pvcp_images/media_PV_SUMMER_2024_20L_800x600_AAA_143507_43.jpg"
->>>>>>> 732ca3a (ok)
     }
   ],
   "properties": [
@@ -160,11 +113,7 @@
       "price": "103.00 EUR",
       "country": "France",
       "title": "Promenade des Bainsss",
-      "activities": [
-        "Sailing",
-        "Casino",
-        "Horse riding"
-      ],
+      "activities": ["Sailing", "Casino", "Horse riding"],
       "arrivaldate": "18/11/2025",
       "department": "Var",
       "housing_name": "4 people",
@@ -241,10 +190,7 @@
       "price": "105.00 EUR",
       "country": "France",
       "title": "La Baie des Sables",
-      "activities": [
-        "Table football",
-        "Sailing"
-      ],
+      "activities": ["Table football", "Sailing"],
       "arrivaldate": "02/12/2025",
       "department": "Vendée",
       "housing_name": "4 people",
